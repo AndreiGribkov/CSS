@@ -54,7 +54,7 @@ a:visited{
     margin-bottom: 10px;
 }
 .container {
-   max-width: 75%; 
+   max-width: 50%; 
    margin: auto ;
    padding-top: 30px;
 }
